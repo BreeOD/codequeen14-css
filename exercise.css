@@ -1,0 +1,64 @@
+* {
+    margin: auto;
+}
+
+body {
+    background-color: rgb(75, 74, 73);
+   
+
+}
+
+.emoji {
+    height: 50px;
+    width: 50px;
+    border: radius 20%;
+    background-color: black;
+}
+
+.photo {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-left:80px;
+    padding: 30px;
+
+
+}
+
+h3 {
+    font: size 30px;
+    color: rgb(9, 255, 0);
+
+}
+
+h5 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: blue;
+    padding: 10px;
+}
+
+.main {
+    margin:0px 400px;
+    /* background-color: brown; */
+    padding: 0px 50px
+
+}
+
+p {
+    padding-bottom: 20px;
+}
+
+.card {
+    box-shadow: 5px 3px 6px rgb(71, 5, 5);
+    padding:0 20px;
+    /* margin: top 30px; */
+    background-color: rgb(6, 134, 185);
+    margin-bottom: 10px;
+    justify-items: center;
+    border-radius: 5px;
+    margin-right: 50px;
+
+ 
+
+}
