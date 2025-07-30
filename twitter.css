@@ -47,6 +47,7 @@ border-radius: 15px;
 border: grey 1px solid;
 margin:10px 50px ;
 padding: 5px;
+padding-left: 20px;
 
 }
 .Next{
@@ -70,7 +71,4 @@ padding: 5px;
 }
 p{
     margin-left: 50px;
-}
-.line{
-    
 }
